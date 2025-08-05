@@ -19,10 +19,6 @@
 
 This repository contains a curated collection of Java backend mini projects developed using **Spring Boot**, **MySQL**, **REST APIs**, and other core Java technologies. These projects demonstrate a wide range of real-world backend concepts and best practices, and serve as a portfolio of my hands-on experience in building scalable, maintainable, and RESTful backend services.
 
-## 👨‍💻 About Me
-
-I’m a backend developer with expertise in **Java**, **Spring Boot**, and **MySQL**, with a focus on designing clean and efficient APIs. This repository showcases some of my practical implementations and solutions, demonstrating my ability to solve complex problems and deliver production-ready code.
-
 ## 🔗 Projects Overview
 
 | Project Name | Description |
@@ -94,6 +90,11 @@ This repository is built for:
    cd java-backend-mini-projects/ProjectName
 
 ## Author
+
+
+## 👨‍💻 About Me
+
+I’m a backend developer with expertise in **Java**, **Spring Boot**, and **MySQL**, with a focus on designing clean and efficient APIs. This repository showcases some of my practical implementations and solutions, demonstrating my ability to solve complex problems and deliver production-ready code.
 
 👤 **Nitesh Choudhary**
 
